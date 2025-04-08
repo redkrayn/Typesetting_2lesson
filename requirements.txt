@@ -1,0 +1,7 @@
+Django==2.2.24
+environs==5.2.1
+pillow==11.1.0
+folium==0.10.0
+django-debug-toolbar==2.2.1
+setuptools==78.1.0
+legacy-cgi==2.6.3
